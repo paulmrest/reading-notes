@@ -17,7 +17,7 @@ Outside of development and computer science in general, I enjoy reading and writ
 One of the most enjoyable things about Software Development for me is the complexity with which different systems interact with each other:
 
 > Machines take me by surprise with great frequency.
-> -Alan Turing
+> - Alan Tur
 
 
 ## Repro Table to Contents
@@ -28,6 +28,7 @@ One of the most enjoyable things about Software Development for me is the comple
 ### Week 01
 
 1. 201 - Day 01 - 2020-04-27
+* [Read 01 - Introductory HTML & JavaScript](./Day01-2020-04-27/Read01-IntroHTML+JS.md)
 1. 201 - Day 02 - 2020-04-28
 1. 201 - Day 03 - 2020-04-29
 1. 201 - Day 04 - 2020-04-30
