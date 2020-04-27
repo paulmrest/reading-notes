@@ -26,6 +26,10 @@ When planning a site, it is usually best to both map out and wireframe the site.
 * Wireframing is the practice of doing a rough sketch of every page in a site's map. Here you can figure out the basic layout, where the links to move around in the structural tree are, and how you want the flow of information to be for your users as they move around your site.
 
 
+# Dynamic Web Pages with Javascript
+
+## Summaries of John Duckett's Book, "Javascript & JQuery":
+
 ## Chapter 1 - The ABCs of Programming/What is a Script and How Do I Create One?:
 ## Pages 11 - 52
 

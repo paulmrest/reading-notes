@@ -17,10 +17,10 @@ Outside of development and computer science in general, I enjoy reading and writ
 One of the most enjoyable things about Software Development for me is the complexity with which different systems interact with each other:
 
 > Machines take me by surprise with great frequency.
-> - Alan Tur
+> -Alan Turing
 
 
-## Repro Table to Contents
+## Table to Contents
 
 1. General Pages
 * [Growth Mindset](./GeneralGuides/GrowthMindset.md)
