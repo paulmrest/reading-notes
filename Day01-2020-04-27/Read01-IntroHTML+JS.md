@@ -1,4 +1,4 @@
-# Structure of Web Pages and HTML
+# Read 01 - Introduction to HTML & JavaScript
 
 ## Summaries from Jon Duckett's book, "HTML & CSS":
 
