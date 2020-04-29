@@ -31,6 +31,7 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 01 - Introductory HTML & JavaScript](./Day01-2020-04-27/Read01-IntroHTML+JS.md)
 * [Read 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](./Day01-2020-04-27/class-02.md)
 1. 201 - Day 02 - 2020-04-28
+* [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./Day02-2020-04-28/Read03-HTMLText+CSSBoxes+JSControlFlow.md)
 1. 201 - Day 03 - 2020-04-29
 1. 201 - Day 04 - 2020-04-30
 1. 201 - Day 05 - 2020-04-30
