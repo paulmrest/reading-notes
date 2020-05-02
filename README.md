@@ -36,6 +36,7 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 04 - HTML Links, CSS Layouts, JS Functions](Day03-2020-04-29/class-04.md)
 1. 201 - Day 04 - 2020-04-30
 1. 201 - Day 05 - 2020-04-30
+* [Read 05 - HTML Images, CSS Color and Text](Day05-2020-05-01/class-05.md)
 
 ### Week 02
 
