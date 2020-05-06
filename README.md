@@ -44,6 +44,7 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 06 - JS Object Literals, The DOM](Day06-2020-05-04/class-06.md)
 * [Read 07 - HTML Tables, JS Constructor Functions](Day06-2020-05-04/class-07.md)
 1. 201 - Day 07 - 2020-05-05
+* [Read 09 - Forms and Events](Day07-2020-05-5/class09.md)
 1. 201 - Day 08 - 2020-05-06
 1. 201 - Day 09 - 2020-05-07
 1. 201 - Day 10 - 2020-05-08
