@@ -46,6 +46,7 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 201 - Day 07 - 2020-05-05
 * [Read 09 - Forms and Events](Day07-2020-05-05/class-09.md)
 1. 201 - Day 08 - 2020-05-06
+* [Read 08 - Layout (Redux)](Day08-2020-05-06/class-08.md)
 1. 201 - Day 09 - 2020-05-07
 1. 201 - Day 10 - 2020-05-08
 
