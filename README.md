@@ -48,6 +48,7 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 201 - Day 08 - 2020-05-06
 * [Read 08 - Layout (Redux)](Day08-2020-05-06/class-08.md)
 1. 201 - Day 09 - 2020-05-07
+* [Read 10 - JS Debugging](Day09-2020-05-07/class-10.md)
 1. 201 - Day 10 - 2020-05-08
 
 ### Week 03
