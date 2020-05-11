@@ -50,6 +50,7 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 201 - Day 09 - 2020-05-07
 * [Read 10 - JS Debugging](Day09-2020-05-07/class-10.md)
 1. 201 - Day 10 - 2020-05-08
+* [Read 11 - Assorted Topics](Day10-2020-05-08/class-11.md)
 
 ### Week 03
 
