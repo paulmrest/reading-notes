@@ -1,4 +1,4 @@
-# Read 12 - Docs For the HTML <canvas> Element & Chart.js
+# Read 12 - Docs For the HTML `<canvas>` Element & Chart.js
 
 ## [Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
