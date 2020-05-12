@@ -57,6 +57,7 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 201 - Day 11 - 2020-05-11
 * [Read 12 - Docs For the HTML `<canvas>` Element & Chart.js](Day11-2020-05-11/class-12.md)
 1. 201 - Day 12 - 2020-05-12
+* [Read 13 - Local Storage](Day12-2020-05-12/class-13.md)
 1. 201 - Day 13 - 2020-05-13
 1. 201 - Day 14 - 2020-05-14
 1. 201 - Day 15 - 2020-05-15
