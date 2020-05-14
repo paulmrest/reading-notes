@@ -59,5 +59,6 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 201 - Day 12 - 2020-05-12
 * [Read 13 - Local Storage](Day12-2020-05-12/class-13.md)
 1. 201 - Day 13 - 2020-05-13
+* [Read 14A - CSS Transforms, Transitions & Animations](Day13-2020-05-13/class-14.md)
 1. 201 - Day 14 - 2020-05-14
 1. 201 - Day 15 - 2020-05-15
