@@ -71,3 +71,4 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 301 - Day 01 - 2020-06-01
 * [Read 01 - SMACSS and Responsive Web Design](CodeFellows-301/Read01-SMACSS_ResponsiveWebDesign.md)
 1. 301 - Day 02 - 2020-06-02
+* [Read 02 - jQuery, Events, and The DOM - Pair Programming](CodeFellows-301/Read02-jQuery_PairProgramming.md)
