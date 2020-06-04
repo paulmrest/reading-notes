@@ -74,3 +74,5 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 02 - jQuery, Events, and The DOM - Pair Programming](CodeFellows-301/Read02-jQuery_PairProgramming.md)
 1. 301 - Day 03 - 2020-06-03
 * [Read 03 - Flexbox and Templating](CodeFellows-301/Read03-Flexbox_Templating.md)
+1. 301 - Day 04 - 2020-06-04
+* [Read 04 - Responsive Web Design and Regular Expressions](CodeFellows-301/Read04-RWD_RegExr.md)
