@@ -76,3 +76,5 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 03 - Flexbox and Templating](CodeFellows-301/Read03-Flexbox_Templating.md)
 1. 301 - Day 04 - 2020-06-04
 * [Read 04 - Responsive Web Design and Regular Expressions](CodeFellows-301/Read04-RWD_RegExr.md)
+1. 301 - Day 05 - 2020-06-05
+* [Read 05 - Heroku Deployment](CodeFellows-301/Read05-Heroku.md)
