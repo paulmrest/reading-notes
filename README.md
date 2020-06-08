@@ -82,4 +82,4 @@ One of the most enjoyable things about Software Development for me is the comple
 ### Week 02
 
 1. 301 - Day 06 - 2020-06-08
-* [Read 06 - Node, Express, and APIs](https://www.sitepoint.com/an-introduction-to-node-js/)
+* [Read 06 - Node, Express, and APIs](CodeFellows-301/Read06-Node.md)
