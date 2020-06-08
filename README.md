@@ -78,3 +78,8 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 04 - Responsive Web Design and Regular Expressions](CodeFellows-301/Read04-RWD_RegExr.md)
 1. 301 - Day 05 - 2020-06-05
 * [Read 05 - Heroku Deployment](CodeFellows-301/Read05-Heroku.md)
+
+### Week 02
+
+1. 301 - Day 06 - 2020-06-08
+* [Read 06 - Node, Express, and APIs](https://www.sitepoint.com/an-introduction-to-node-js/)
