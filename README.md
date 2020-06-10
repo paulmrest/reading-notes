@@ -85,3 +85,5 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 06 - Node, Express, and APIs](CodeFellows-301/Read06-Node.md)
 1. 301 - Day 07 - 2020-06-09
 * [Read 07 - REST](CodeFellows-301/Read07-REST.md)
+1. 301 - Day 08 - 2020-06-10
+* [Read 08]()
