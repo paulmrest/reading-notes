@@ -87,3 +87,5 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 07 - REST](CodeFellows-301/Read07-REST.md)
 1. 301 - Day 08 - 2020-06-10
 * [Read 08 - SQL](CodeFellows-301/Read08-SQL.md)
+1. 301 - Day 09 - 2020-06-11
+* [Read 09 - Refactoring](CodeFellows-301/Read09-Refactoring.md)
