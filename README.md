@@ -91,3 +91,8 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 09 - Refactoring](CodeFellows-301/Read09-Refactoring.md)
 1. 301 - Day 10 - 2020-06-12
 * [Read 10 - The Call Stack](CodeFellows-301/Read10-TheCallStack.md)
+
+### Week 03
+
+1. 301 - Day 11 - 2020-06-15
+* [Read 11 - EJS (and Google Books API)](CodeFellows-301/Read11-EJS_GoogleBooksAPI.md)
