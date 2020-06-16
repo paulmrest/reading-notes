@@ -96,3 +96,5 @@ One of the most enjoyable things about Software Development for me is the comple
 
 1. 301 - Day 11 - 2020-06-15
 * [Read 11 - EJS (and Google Books API)](CodeFellows-301/Read11-EJS_GoogleBooksAPI.md)
+1. 301 - Day 12 - 2020-06-16
+* [Read 12 - EJS Partials](CodeFellows-301/Read12-EJS_Partials.md)
