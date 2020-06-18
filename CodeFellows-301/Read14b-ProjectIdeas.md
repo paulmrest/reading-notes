@@ -6,7 +6,7 @@ That said, I did think of an idea about six months ago that I am excited to now 
 
 ***
 
-## Project Idea 01:
+## Project Idea 01: The Loud and the Proud
 
 A web app that allows you to determine whether your local bars will be overrun with loud sports fans because an important game is on. I initially conceived of this as a way of avoiding this, as I've been in the situation of going to a dive bar with a friend and being surprised by it being insanely crowded and loud. Since then, people have pointed out that it could be used for the opposite scenario: wanting a loud bar overrun with screaming sport fans.
 
