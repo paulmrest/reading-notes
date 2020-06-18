@@ -1,0 +1,11 @@
+# Read 14a - Database Normalization
+
+## [Database Normalization (Explained in Simple English)](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+Database normalization is one of those topics I've explored before in various ways (different articles, talking to DB admins, and reading a chunk of some T-SQL book whose name is escaping me), and while it makes sense in principle, the specifics of **First Normal**, **Second Normal**, and **Third Normal** alwasy struck me something you have to practice to really get.
+
+DB normalization's guiding principle is simple: don't jam things that aren't directly necessary for what a table is expressing into that table. It's easy when designing tables to stick related, maybe even highly related, information in a table that doesn't need to be there. If you have a table called `house_plants` you might think you want to have a column for where that houseplant is in your house. But what if you rearrange your furniture? Or get rid of a piece of furniture, or buy a new piece? Or move? Then you'll need to update a bunch of duplicate data. Furthermore, data has a tendency to proliferate: you may decide you want to add a column that describes where the houseplant is on the furniture (corner, center, etc...). Then you'll need to add another column to your poor `house_plants` table.
+
+A better approach is to break up your information into multiple tables. So in your `house_plants` table each plant would have a unique identifier, and that identifier would be connected to a `furniture` table, . If you decide you want to record the positions of your plants on each furniture piece, you can add another table, `furniture_house_plant-pos` table, which ties back to the unique identifiers on both `furniture` and `house_plants`.
+
+I've experienced first-hand how difficult it can be to access, maintain, and modify data in badly normalized tables. At my previous job the product used T-SQL in the back-end, and as the product had been iterated on over 20 years by many devs and DB admins, some table structures were well normalized, and some just had *all* related data for a particular concept. Just trying to find which column a piece of data was stored in could be a challenge when a table has close to 100 columns.
