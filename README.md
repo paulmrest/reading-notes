@@ -100,3 +100,6 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 12 - EJS Partials](CodeFellows-301/Read12-EJS_Partials.md)
 1. 301 - Day 13 - 2020-06-17
 * [Read 13 - Sending Form Data](CodeFellows-301/Read13-SendingFormData.md)
+1. 301 - Day 14 - 2020-06-18
+* [Read 14a - Database Normalization](CodeFellows-301/Read14b-DataBase_Normalization.md)
+* [Read 14b - Project Ideas](CodeFellows-301/Read14b-ProjectIdeas.md)
