@@ -103,3 +103,5 @@ One of the most enjoyable things about Software Development for me is the comple
 1. 301 - Day 14 - 2020-06-18
 * [Read 14a - Database Normalization](CodeFellows-301/Read14b-DataBase_Normalization.md)
 * [Read 14b - Project Ideas](CodeFellows-301/Read14b-ProjectIdeas.md)
+1. 301 - Day 15 - 2020-06-19
+* [Read 15 - Diversity and Inclusion](CodeFellows-301/Read15-Diveristy.md)

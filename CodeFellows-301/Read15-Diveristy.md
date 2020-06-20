@@ -1,0 +1,13 @@
+# Read 15 - Diversity and Inclusion
+
+## [Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/)
+## [Diversity in Tech](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+## [Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
+
+The article Quartz (qz.com) linking modern gender gaps in STEM to computer game marketing in the 1980s was both fascinating and extremely aggravating. I wanted more examples! Just one Apple ad? And an image of a Q\*Bert ad that's too low resolution to even read? Ugh. I dug around online and didn't find much else...some Nintendo ads (all boys), some adventure game covers with buxom women, and this *very* Freudian [article cover image](https://ottawarewind.com/2018/12/02/joystick-the-untold-story-of-ottawas-coke-fueled-1980s-video-game-industry/).
+
+That said, the overall point the article is making is a good one: the systemic decisions always have future consequences. And while causation is nearly impossible to prove in a cultural shifts like this, the correlation between women not pursuing CS degrees and the shift in computer game advertising in the 1980s seems a strong one to me. It actually reminds me of a similar shift that occurred in the 1950s and 60s when programming started being important, complicated, and therefore paid well, so the women who had been doing it were shoved aside so that men could do it instead.
+
+The USA Today article fails to mention a really good approach to increasing diversity, diversity focused internships: [How Google, Pinterest, And Others Use Internships To Push Their Diversity Initiatives](https://www.fastcompany.com/3060118/how-google-pinterest-and-others-use-internships-to-push-their-diversity-i) Due to systemic oppression there is a pipeline issue, but a solution to moving things in the right direction is quite easy, although expensive so really only within reach of larger companies.
+
+Finally, just on a personal note, and not something that's mentioned explicitly in any of these materials: the importance of representation is huge. This wasn't something I understood until fairly recently, but *seeing* people like you doing what you'd like to be able to do is greatly important to feeling like you can do that thing. So seeing media that shows POC/minority people in STEM roles is not SJW posturing, but rather a vital part of helping to move the needle towards equality.
