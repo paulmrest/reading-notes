@@ -105,3 +105,9 @@ One of the most enjoyable things about Software Development for me is the comple
 * [Read 14b - Project Ideas](CodeFellows-301/Read14b-ProjectIdeas.md)
 1. 301 - Day 15 - 2020-06-19
 * [Read 15 - Diversity and Inclusion](CodeFellows-301/Read15-Diveristy.md)
+
+## 401
+### Week 01
+1. 401 - Day 01 - 2020-07-06
+- [Prework - Mindset](CodeFellows-401/Prework-Mindset.md)
+- [Prework - History of C# and the .NET Framework](CodeFellows-401/Prework-HistoryOfCSharp.md)
