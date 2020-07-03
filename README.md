@@ -111,3 +111,4 @@ One of the most enjoyable things about Software Development for me is the comple
 ### Week 01
 1. 401 - Day 01 - 2020-07-06 (Pre-Work)
 * [Prework - Mindset](CodeFellows-401/Prework-Mindset.md)
+* [Prework - History of C# and the .NET Framework](CodeFellows-401/Prework-HistoryOfC#AndDotNET.md)
