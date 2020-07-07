@@ -113,4 +113,4 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Prework - History of C# and the .NET Framework](CodeFellows-401/Prework-HistoryOfCSharp.md)
 - [Read 01 - Exception Handling](CodeFellows-401/Read01-ExceptionHandling.md)
 1. 401 - Day 02 - 2020-07-07
-- [Read 02 - Unit Tests and Documentation]()
+- [Read 02 - Unit Tests and Documentation](CodeFellows-401/Read02-UnitTesting_ReadMe.md)
