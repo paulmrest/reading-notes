@@ -116,3 +116,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 02 - Unit Tests and Documentation](CodeFellows-401/Read02-UnitTesting_ReadMe.md)
 1. 401 - Day 03 - 2020-07-08
 - [Read 03 - System I.O.](CodeFellows-401/Read03-SystemIO.md)
+1. 401 - Day 04 - 2020-07-09
+- [Read 04 - Classes and Objects](CodeFellows-401/Read04-Classes_and_Objects.md)
