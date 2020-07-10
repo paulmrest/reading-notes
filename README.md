@@ -118,3 +118,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 03 - System I.O.](CodeFellows-401/Read03-SystemIO.md)
 1. 401 - Day 04 - 2020-07-09
 - [Read 04 - Classes and Objects](CodeFellows-401/Read04-Classes_and_Objects.md)
+1. 401 - Day 05 - 2020-07-10
+- [Read 05 - Linked Lists](CodeFellows-401/Read05-LinkedLists.md)
