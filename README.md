@@ -120,3 +120,7 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 04 - Classes and Objects](CodeFellows-401/Read04-Classes_and_Objects.md)
 1. 401 - Day 05 - 2020-07-10
 - [Read 05 - Linked Lists](CodeFellows-401/Read05-LinkedLists.md)
+
+### Week 02
+1. 401 - Day 06 - 2020-07-13
+- [Read 06 - Review](CodeFellows-401/Read06-Review.md)
