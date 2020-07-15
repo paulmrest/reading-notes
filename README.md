@@ -126,3 +126,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 06 - Review](CodeFellows-401/Read06-Review.md)
 1. 401 - Day 07 - 2020-07-14
 - [Read 07 - OOP Principles](CodeFellows-401/Read07-OOP.md)
+1. 401 - Day 08 - 2020-07-15
+- [Read 08 - Collections](CodeFellows-401/Read08-Collections.md)
