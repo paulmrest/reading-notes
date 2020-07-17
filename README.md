@@ -130,3 +130,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 08 - Collections](CodeFellows-401/Read08-Collections.md)
 1. 401 - Day 09 - 2020-07-16
 - [Read 09 - LINQ & Delegates](CodeFellows-401/Read09-LINQandDelegates.md)
+1. 401 - Day 10 - 2020-07-17
+- [Read 10 - Stacks & Queues](CodeFellows-401/Read10-StacksAndQueues.md)
