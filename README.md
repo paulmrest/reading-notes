@@ -132,7 +132,11 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 09 - LINQ & Delegates](CodeFellows-401/Read09-LINQandDelegates.md)
 1. 401 - Day 10 - 2020-07-17
 - [Read 10 - Stacks & Queues](CodeFellows-401/Read10-StacksAndQueues.md)
+
+### Week 03
 1. 401 - Day 11 - 2020-07-20
 - [Read 11 - MVC](CodeFellows-401/Read11-MVC.md)
 1. 401 - Day 12 - 2020-07-21
 - [Read 12 - EF Core and APIs](CodeFellows-401/Read12-EFCoreAndAPIs.md)
+1. 401 - Day 13 - 2020-07-22
+- [Read 13 - Dependency Injection & Repository Design Pattern](CodeFellows-401/Read13-DependencyInjection.md)
