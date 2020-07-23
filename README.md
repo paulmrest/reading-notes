@@ -140,3 +140,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 12 - EF Core and APIs](CodeFellows-401/Read12-EFCoreAndAPIs.md)
 1. 401 - Day 13 - 2020-07-22
 - [Read 13 - Dependency Injection & Repository Design Pattern](CodeFellows-401/Read13-DependencyInjection.md)
+1. 401 - Day 14 - 2020-07-23
+- [Read 14 - Routing within MVC and Core](CodeFellows-401/Read14-Routing.md)
