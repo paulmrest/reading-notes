@@ -142,3 +142,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 13 - Dependency Injection & Repository Design Pattern](CodeFellows-401/Read13-DependencyInjection.md)
 1. 401 - Day 14 - 2020-07-23
 - [Read 14 - Routing within MVC and Core](CodeFellows-401/Read14-Routing.md)
+1. 401 - Day 15 - 2020-07-24
+- [Read 15 - Binary Trees](CodeFellows-401/Read15-Trees.md)
