@@ -144,3 +144,7 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 14 - Routing within MVC and Core](CodeFellows-401/Read14-Routing.md)
 1. 401 - Day 15 - 2020-07-24
 - [Read 15 - Binary Trees](CodeFellows-401/Read15-Trees.md)
+
+### Week 06
+1. 401 - Day 26 - 2020-08-10
+- [Read 26 - Azure Dev Ops & Bootstrap](CodeFellows-401/Read26-AzureDevOps&Bootstrap.md)
