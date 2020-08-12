@@ -150,3 +150,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 26 - Azure Dev Ops & Bootstrap](CodeFellows-401/Read26-AzureDevOps&Bootstrap.md)
 1. 401 - Day 27 - 2020-08-11
 - [Read 27 - Razor Pages](CodeFellows-401/Read27-RazorPages.md)
+1. 401 - Day 28 - 2020-08-12
+- [Read 28 - Layouts](CodeFellows-401/Read28-Layouts.md)
