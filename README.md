@@ -156,3 +156,7 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 29 - Policies](CodeFellows-401/Read29-Policies.md)
 1. 401 - Day 29 - 2020-08-14
 - [Read 30 - Hash Tables](CodeFellows-401/Read30-HashTables.md)
+
+### Week 07
+1. 401 - Day 30 - 2020-08-16
+- [Read 30 - Sending Email](CodeFellows-401/Read30-SendingEmail.md)
