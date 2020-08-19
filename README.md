@@ -162,3 +162,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 31 - Sending Email](CodeFellows-401/Read31-SendingEmail.md)
 1. 401 - Day 32 - 2020-08-18
 - [Read 32 - View Components](CodeFellows-401/Read32-ViewComponents.md)
+1. 401 - Day 33 - 2020-08-19
+- [Read 33 - OAuth](CodeFellows-401/Read33-OAuth.md)
