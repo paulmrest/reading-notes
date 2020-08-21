@@ -166,3 +166,5 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 33 - OAuth](CodeFellows-401/Read33-OAuth.md)
 1. 401 - Day 34 - 2020-08-20
 - [Read 33 - DSA Review](CodeFellows-401/Read34-DSAReview.md)
+1. 401 - Day 35 - 2020-08-21
+- [Read 33 - DSA Review](CodeFellows-401/Read35-Graphs.md)
