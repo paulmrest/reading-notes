@@ -168,3 +168,7 @@ One of the most enjoyable things about Software Development for me is the comple
 - [Read 33 - DSA Review](CodeFellows-401/Read34-DSAReview.md)
 1. 401 - Day 35 - 2020-08-21
 - [Read 33 - DSA Review](CodeFellows-401/Read35-Graphs.md)
+
+### Week 09
+1. 401 - Day 42 - 2020-08-17
+- [Read 42 - Ethics](CodeFellows-401/Read42-Ethics.md)
